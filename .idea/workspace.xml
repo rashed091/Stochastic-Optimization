@@ -3,9 +3,46 @@
   <component name="ChangeListManager">
     <list default="true" id="8153107f-87dc-446c-9302-e04274dd0e69" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Stochastic-Optimization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Stochastic-Optimization.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter01 - Probabilistic Programming-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter01 - Probabilistic Programming-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter02 - PyMC3 syntax-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter02 - PyMC3 syntax-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter03 - Markov Chain Monte Carlo (MCMC)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter03 - Markov Chain Monte Carlo (MCMC)-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter04 - The Law of Large Numbers-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter04 - The Law of Large Numbers-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter05 - Loss Functions-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter05 - Loss Functions-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter06 - Priors-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/.ipynb_checkpoints/Chapter06 - Priors-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/Chapter01 - Probabilistic Programming.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/Chapter01 - Probabilistic Programming.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/Chapter02 - PyMC3 syntax.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/Chapter02 - PyMC3 syntax.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/Chapter03 - Markov Chain Monte Carlo (MCMC).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/Chapter03 - Markov Chain Monte Carlo (MCMC).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/Chapter04 - The Law of Large Numbers.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/Chapter04 - The Law of Large Numbers.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/Chapter05 - Loss Functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/Chapter05 - Loss Functions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayesian_hackers/Chapter06 - Priors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bayesian_hackers/Chapter06 - Priors.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/.ipynb_checkpoints/Lecture03 - Frequentist Stats-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/.ipynb_checkpoints/Lecture04 - regularization-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/.ipynb_checkpoints/Lecture06 - Entropy-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture01_01 - Probability and distributions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/Lecture01_01 - Probability and distributions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture02 - Basic Monte Carlo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture02 - Expectations and the Law of Large Numbers.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture02 - Monte Carlo Integrals.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture02 - Sampling and the Central Limit Theorem.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture03 - Frequentist Stats.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture03 - Maximum Likelihood Estimation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture04 - Learning a model.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture04 - Noisy Learning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture04 - Test set to compute out-of-sample risk.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture04 - Validation and Cross Validation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture04 - regularization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture05 - Convexity and Jensen's Inequality.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture05 - Divergence and Deviance.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture05 - The significance and size of effects.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture05 - Understanding AIC.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture06 - Entropy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture07 - Bayesian Statistics.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture07 - Sufficient Statistics and Exchangeability.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture07 - The beta-binomial model of globe-tossing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture08 - Importance sampling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture08 - Rejection sampling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture08 - The Inverse Transform.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/Lecture08 - The normal model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/Lecture08 - The normal model.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,23 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyro/pyro_models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="63">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -124,12 +149,12 @@
       <updated>1560625613904</updated>
       <workItem from="1560625617080" duration="1038000" />
       <workItem from="1560662028582" duration="669000" />
-      <workItem from="1560671845281" duration="18000" />
+      <workItem from="1560671845281" duration="1541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1725000" />
+    <option name="totallyTimeSpent" value="3248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="28" width="1924" height="1054" extended-state="6" />
@@ -172,10 +197,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="42">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="63">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>

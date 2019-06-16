@@ -1,3 +1,4 @@
 lectures/.ipynb_checkpoints/
 Pipfile
-.idea/
+.idea/*
+bayesian_hackers/.ipynb_checkpoints/
